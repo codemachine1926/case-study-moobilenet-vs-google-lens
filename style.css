@@ -1,0 +1,41 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+#heading {
+    color: red;
+    font-family:fantasy ;
+    margin-top: 2px;
+}
+#img1 {
+    width: 100px;
+    height: 100px;
+}
+.results {
+    background-color: grey;
+    border-radius: 20px;
+    border-color: black;
+    margin-bottom: 10px;
+}
+.output {
+    background-color: white;
+    border-radius: 10px;
+    padding: 2px;
+    margin-bottom: 5px;
+    
+}
+.image {
+    width: 200px;
+    height: 300px;
+}
+.output{
+    font-size: 20px;
+}
+ol {
+    margin: 50px;
+}
+.footer {
+    background-color: black;
+    color: wheat;
+    margin-top: 2000px;
+}
